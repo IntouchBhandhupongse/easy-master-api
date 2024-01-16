@@ -1,0 +1,6 @@
+@easy_master_api_HostAddress = http://localhost:5093
+
+GET {{easy_master_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
